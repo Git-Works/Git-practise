@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\rep\\GitPractise\\GitPractise\\GitPractise.csproj": {}
+    "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\Git test\\Git-practise\\GitPractise\\GitPractise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\rep\\GitPractise\\GitPractise\\GitPractise.csproj": {
+    "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\Git test\\Git-practise\\GitPractise\\GitPractise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\rep\\GitPractise\\GitPractise\\GitPractise.csproj",
+        "projectUniqueName": "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\Git test\\Git-practise\\GitPractise\\GitPractise.csproj",
         "projectName": "GitPractise",
-        "projectPath": "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\rep\\GitPractise\\GitPractise\\GitPractise.csproj",
+        "projectPath": "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\Git test\\Git-practise\\GitPractise\\GitPractise.csproj",
         "packagesPath": "C:\\Users\\KishoreSM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\rep\\GitPractise\\GitPractise\\obj\\",
+        "outputPath": "C:\\Users\\KishoreSM\\OneDrive - CloudThat\\Desktop\\Git test\\Git-practise\\GitPractise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KishoreSM\\AppData\\Roaming\\NuGet\\NuGet.Config",
